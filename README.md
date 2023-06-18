@@ -1,2 +1,2 @@
-# nanopack
-Hub for nanopack resources and content
+# micropack
+Hub for micropack resources and content
